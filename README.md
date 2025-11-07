@@ -39,10 +39,13 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peterdev821/Peterdev821/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peterdev821/Peterdev821/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Peterdev821/Peterdev821/output/pacman-contribution-graph.svg">
+<picture align="canter">
+ <source media-"(prefers-colors-scheme: dark)"
+srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
+ <source media-"(prefers-colors-scheme: light)"
+srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
+ <img align-"center" alt-"github contribution grid snake animation"
+src-"https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ###
