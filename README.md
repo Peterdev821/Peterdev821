@@ -41,9 +41,9 @@
 
 <picture align="center">
  <source media-"(prefers-colors-scheme: dark)"
-srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
+srcset="https://raw.githubusercontent.com/Peterdev821/Peterdev821/output/github-contribution-grid-snake-dark.svg">
  <source media-"(prefers-colors-scheme: light)"
-srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
+srcset="https://raw.githubusercontent.com/Peterdev821/Peterdev821/output/github-contribution-grid-snake-dark.svg">
  <img align-"center" alt-"github contribution grid snake animation"
 src-"https://raw.githubusercontent.com/Peterdev821/Peterdev821/output/github-contribution-grid-snake-dark.svg">
 </picture>
