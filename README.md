@@ -1,4 +1,4 @@
-<h2 align="left"># 👨‍💻 Pedro Paulo <br><br>Desenvolvedor<br><br>Me chamo Pedro Paulo Santos Oliveira, tenho 18 anos e sou natural da Bahia. Conclui o ensino médio no CCS (Colégio Comercial de Serrinha). Atualmente estou cursando Engenharia de Software na UNIFAN. Sou amante de tecnologia e desejo aprender cada vez mais.</h2>
+<h2 align="left"> 👨‍💻 Pedro Paulo <br><br>Desenvolvedor<br><br>Me chamo Pedro Paulo Santos Oliveira, tenho 18 anos e sou natural da Bahia. Conclui o ensino médio no CCS (Colégio Comercial de Serrinha). Atualmente estou cursando Engenharia de Software na UNIFAN. Sou amante de tecnologia e desejo aprender cada vez mais.</h2>
 
 ###
 
